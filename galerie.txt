@@ -1,0 +1,15 @@
+14
+Vincent Van_Gogh Irisi 1889 135 Olanda 
+Rapha Dragos Triumful 1512 80 Italia 
+Henri Rousseau Tigrul 1891 27 Franta 
+Rembrandt Rinj Danae 1636 78 Olanda 
+August Renoir Grenoui 1869 39 Franta 
+Pablo Picasso Guernica 1937 110 Spania 
+Edvard Munch Tipatul 1893 120 Norvegia 
+Lorenzo Lotto Pieta 1508 40 Italia 
+Vasili Kandinski Echilibrul 1942 30 Rusia 
+Nicolae Grigorescu Ciobanita 1867 50 Romania 
+Chisca Dragos CEEF 2021 10 Moldova 
+Leonardo Da_Vinci Gioconda 1503 200 Italia 
+Sergiu Cusnir CEEE 2021 0 Moldova 
+Paul Cezanne Padurea 1904 48 Franta 
